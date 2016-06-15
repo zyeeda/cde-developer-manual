@@ -1,0 +1,38 @@
+{
+
+    "title": "CDE.IO 开发人员手册",
+    "description": null,
+
+    "extension": null,
+
+    "links": {
+        "home": false,
+
+        "about": false,
+        "issues": false,
+        "contribute": false,
+
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false
+        }
+    },
+
+
+    "pdf": {
+        "toc": true,
+        "pageNumbers": true,
+
+        "fontSize": 12,
+
+        "paperSize": "a4",
+
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        }
+    }
+}
